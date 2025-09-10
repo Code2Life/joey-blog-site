@@ -261,8 +261,6 @@ The Tensor Fusion prototype was developed by my friend and former colleague [And
 
 As co-founder, I bring [technical expertise](https://github.com/code2life) in IaaS/PaaS and connections with international cloud providers. With experience in product, technology, marketing and management from internal startups, I'm confident in leading business operations and product development.
 
-Our third founding engineer [Carl](https://github.com/0x5457) has contributed to top open source projects including [Golang](https://github.com/golang/go/commit/42b20297d314bd72195e9abff55b0c607c2619a8), Kubernetes, TiKV, and Supabase. He has also built RISC-V emulators and WASM runtimes, demonstrating strong systems programming capabilities.
-
 Post-funding, we plan to formally bring on 2-3 additional talented engineers with strong entrepreneurial drive.
 
 We are actively seeking a **Sales and Operations leader** to join as a potential co-founder, with a focus on **international markets**.

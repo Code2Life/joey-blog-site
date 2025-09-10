@@ -265,8 +265,6 @@ Tensor Fusion原型产品，是我前同事和老朋友[Andy](https://github.com
 
 作为创始人之一，我在IaaS/PaaS领域有一些[技术见解](https://github.com/code2life)，工作过程也积累了不少海外云厂商资源。这些年在公司内算是连续创业，产品、技术、营销、管理都有涉及，有信心做好公司运营、团队管理。
 
-第三位创始团队研发骨干是[Carl](https://github.com/0x5457), 在工作之余，Carl贡献过一些顶级开源项目，比如[Golang](https://github.com/golang/go/commit/42b20297d314bd72195e9abff55b0c607c2619a8), Kubernetes, TiKV, Supabase，写过RISCV模拟器和WASM Runtime，对底层系统级编程轻车熟路。
-
 我们计划融资后，再正式邀请2-3位有强烈创业意向的优秀研发。
 
 目前创始团队的**销售和运营负责人虚位以待**，我正在想办法在**海外**寻找这位潜在的Co-founder。
