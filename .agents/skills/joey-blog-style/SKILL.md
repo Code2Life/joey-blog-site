@@ -1,6 +1,6 @@
 ---
-name: joey-blog-style
-description: Use when writing new long-form Chinese articles for this blog that should match the author's technical, managerial, and conceptual essay style across platform engineering, cloud native, AI infrastructure, and software design topics
+name: tech-blog
+description: Use when writing new Chinese articles that should match the author's technical, managerial, and conceptual essay style
 ---
 
 # Joey Blog Style
