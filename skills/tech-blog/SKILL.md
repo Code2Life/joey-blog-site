@@ -1,11 +1,11 @@
 ---
-name: joey-blog-style
-description: Use when writing new long-form Chinese articles for this blog that should match the author's technical, managerial, and conceptual essay style across platform engineering, cloud native, AI infrastructure, and software design topics
+name: tech-blog
+description: Use when writing new Chinese articles that should match the author's technical, managerial, and conceptual essay style
 ---
 
-# Joey Blog Style
+## 目标
 
-目标：写出做过事、想得深、讲得明白的图文并茂的文章。风格不是堆术语，而是把复杂问题拆开、抽象、再落回现实。
+写出做过事、想得深、讲得明白的图文并茂的文章。风格不是堆术语，而是把复杂问题拆开、抽象、再落回现实。
 
 ## 写作骨架
 
