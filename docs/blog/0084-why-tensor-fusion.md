@@ -261,7 +261,7 @@ rCUDA在4年前停止更新了；GPULess只实现了60多个CUDA函数的Stub；
 
 ### 团队
 
-Tensor Fusion原型产品，是我前同事和老朋友[Andy](https://github.com/nooodles2023)开发的，Andy是连续创业者，Tensor Fusion的创始人，也是[手撸虚拟机](https://github.com/tenclass/mvisor)的极客，创造力和底层编码能力非常强。
+Tensor Fusion原型产品，是我前同事和老朋友[Andy](https://github.com/nooodles2023)开发的，Andy是连续创业者，Tensor Fusion的创始人，也是[手搓虚拟机](https://github.com/tenclass/mvisor)的极客，创造力和底层编码能力非常强。
 
 作为创始人之一，我在IaaS/PaaS领域有一些[技术见解](https://github.com/code2life)，工作过程也积累了不少海外云厂商资源。这些年在公司内算是连续创业，产品、技术、营销、管理都有涉及，有信心做好公司运营、团队管理。
 
